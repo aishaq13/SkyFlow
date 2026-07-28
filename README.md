@@ -80,8 +80,4 @@ docs/                Architecture documentation
 scripts/              Smoke test
 ```
 
-## Honest resume wording
 
-> Developed a distributed airline operations simulator using Java, Spring Boot, Kafka, PostgreSQL, and Redis to model flight disruptions and evaluate rule-based gate and aircraft reassignment scenarios. Implemented event-driven services, persistent recommendation history, operational read models, health checks, Docker Compose, Kubernetes manifests, and automated CI.
-
-Do not add performance numbers until you run and document repeatable benchmarks.
